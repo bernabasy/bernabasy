@@ -8,9 +8,9 @@
   <img src="assets/image counter.png" alt="logo" width="20%"  height="auto" />
  </div>
 About me <br/>
-I'm Bernabas Yosef. A Full Stack Developer. I am a student at Microverse, an online school where I code more than 8 hours a day with other developers from all around the globe.
+I'm Bernabas Yosef. A Full-Stack Developer. I am a student at Microverse, an online school where I code more than 8 hours a day with other developers from all around the globe.
 
-🌱 I’m currently learning API, Webpack, ES6, Javascript, CSS, HTML.<br/>
+🌱 I’m currently learning API, Webpack, ES6, JavaScript, CSS, HTML.<br/>
 ⚡ Fun fact I am also an Animation maker.
 <p align="center">Connect with me</p>
 <div align="center">
