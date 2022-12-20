@@ -33,8 +33,8 @@ I'm Bernabas Yosef. A Full Stack Developer. I am a student at Microverse, an onl
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <h2 align ="left">GitHub Stats</h2>
 <div>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernabasy&show_icons=true&theme=nightowl&layout=compact"/>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bernabasy&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernabasy&show_icons=true&theme=nightowl&layout=compact"/>
+  <img height="180" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bernabasy&show_icons=true&theme=nightowl&count_private=true"/>
 </div>
 
 <!--
