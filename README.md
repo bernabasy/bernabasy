@@ -8,17 +8,17 @@
   <img src="assets/image counter.png" alt="logo" width="20%"  height="auto" />
  </div>
 About me <br/>
-I'm Bernabas yosef. A Full Stack Developer. I am a student at Microverse, an online school where i code more than 8 hours a day with other developers from all around the globe.
+I'm Bernabas Yosef. A Full Stack Developer. I am a student at Microverse, an online school where I code more than 8 hours a day with other developers from all around the globe.
 
 🌱 I’m currently learning API, Webpack, ES6, Javascript, CSS, HTML.<br/>
-⚡ Fun fact I am also an animation maker.
+⚡ Fun fact I am also an Animation maker.
 <p align="center">Connect with me</p>
 <div align="center">
       <a  href="https://www.linkedin.com/in/bernabas-yosef-74b571186/" target="_blank">
-      <img src="assets/linkdin.svg" alt="logo" width="10%"  height="25px" alt="lindedIn"/>
+      <img src="assets/LinkedIn.svg" alt="logo" width="10%"  height="25px" alt="LinkedIn"/>
     </a>
   <a href="https://twitter.com/bernabasjosef" target="_blank">
-      <img src="assets/tiwter.svg" alt="logo" width="10%"  height="25px" alt="twitter"/>
+      <img src="assets/Twitter.svg" alt="logo" width="10%"  height="25px" alt="twitter"/>
     </a>
 </div>
 
