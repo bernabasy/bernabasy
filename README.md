@@ -5,7 +5,6 @@
   <img src="assets/banner.png" alt="logo" width="80%"  height="auto" />
   <br/>
   <p align="center">Thank you for visiting my page</p>
-  <img src="assets/image counter.png" alt="logo" width="20%"  height="auto" />
  </div>
 About me <br/>
 I'm Bernabas Yosef. A Full-Stack Developer. I am a student at Microverse, an online school where I code more than 8 hours a day with other developers from all around the globe.
