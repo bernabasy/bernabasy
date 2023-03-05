@@ -38,11 +38,13 @@ I'm Bernabas Yosef. A Full-Stack Developer. I am a student at Microverse, an onl
 ## Things I am passionate about
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<h2 align ="left">GitHub Stats</h2>
-<div>
-  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernabasy&show_icons=true&theme=nightowl&layout="/>
-  <img height="180" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bernabasy&show_icons=true&theme=nightowl&count_private=true"/>
-</div>
+<h2 align ="left"></h2>
+## ⚡ GitHub Stats
+
+| | |
+|:---:|:---:|
+| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=bernabasy&theme=radical) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=bernabasy&show_icons=true&locale=en&layout=compact&theme=radical) |
+| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernabasy&theme=2077) | ![stats](https://github-readme-stats.vercel.app/api?username=bernabasy&show_icons=true&theme=radical) |  
 
 <!--
 **bernabasy/bernabasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
