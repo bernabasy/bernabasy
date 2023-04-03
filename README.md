@@ -1,8 +1,7 @@
 ### Hi  👋 I AM BERNABAS
 
 <div align="center">
-
-  <img src="assets/banner.png" alt="logo" width="80%"  height="auto" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   <br/>
   <p align="center"></p>
  </div>
