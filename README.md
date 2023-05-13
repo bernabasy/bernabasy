@@ -38,7 +38,6 @@ I'm Bernabas Yosef. A Full-Stack Developer. I am a student at Microverse, an onl
 
 ## Things I am passionate about
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <h2 align ="left"></h2>
 ## ⚡ GitHub Stats
 
