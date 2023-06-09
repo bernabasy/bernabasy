@@ -14,7 +14,7 @@
 About me <br/>
 I'm Bernabas Yosef. A Full-Stack Developer. I am a student at Microverse, an online school where I code more than 8 hours a day with other developers from all around the globe.
 
-🌱 I’m currently learning  node.js.<br/>
+🌱 I’m currently learning  Node.js<br/>
 <p align="center">Connect with me</p>
 <div align="center">
       <a  href="https://www.linkedin.com/in/bernabas-yosef-74b571186/" target="_blank">
