@@ -41,7 +41,7 @@ I'm Bernabas Yosef. A Full-Stack Developer. I have studied at Microverse, an onl
 ## Things I am passionate about
 
 <h2 align ="left"></h2>
-## ⚡ GitHub Stats
+⚡ GitHub Stats
 
 | | |
 |:---:|:---:|
