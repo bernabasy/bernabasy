@@ -25,14 +25,6 @@ I'm Bernabas Yosef. A Full-Stack Developer. I have studied at Microverse, an onl
     </a>
 </div>
 
-
-## Certificates & Licenses
-[<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62774143" />](https://www.credential.net/29a16722-c88b-4cc3-bd70-fa83b4ca578b)
-[<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65926299" />](https://www.credential.net/791d5f33-9813-4042-8440-7e4bc85136c3)
-[<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67898367" />](https://www.credential.net/23eb2501-38ef-4000-a809-17f5d263707b)
-[<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557146" />](https://www.credential.net/53cc8670-ad8f-4a15-9185-02e5659068fa)
-[<img src="./assets/ror-badge.png" width="200">](https://www.credential.net/49c5888d-6f4e-49a7-a03a-f10fa2a2b069)
-[<img src="./assets/fullstack.png" width="220">](https://www.credential.net/4d3d9540-5a0a-4ac3-aed3-dc39e1e0237a#gs.zl80sp)
 <h3 align="left">Languages and Tools:</h3>
 <br/>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
