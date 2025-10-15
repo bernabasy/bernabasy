@@ -12,8 +12,6 @@
  <a href="https://github.com/bernabasy?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bernabasy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 About me <br/>
-I'm Bernabas Yosef. A Full-Stack Developer. I have studied at Microverse, an online school where I code more than 8 hours a day with other developers from all around the globe.
-
 🌱 .<br/>
 <p align="center">Connect with me</p>
 <div align="center">
